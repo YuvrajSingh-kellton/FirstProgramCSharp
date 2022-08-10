@@ -1,0 +1,15 @@
+D:\C# Programs\Firstoprogram\bin\Debug\net6.0\Firstoprogram.exe
+D:\C# Programs\Firstoprogram\bin\Debug\net6.0\Firstoprogram.deps.json
+D:\C# Programs\Firstoprogram\bin\Debug\net6.0\Firstoprogram.runtimeconfig.json
+D:\C# Programs\Firstoprogram\bin\Debug\net6.0\Firstoprogram.dll
+D:\C# Programs\Firstoprogram\bin\Debug\net6.0\Firstoprogram.pdb
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.csproj.AssemblyReference.cache
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.AssemblyInfoInputs.cache
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.AssemblyInfo.cs
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.csproj.CoreCompileInputs.cache
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.dll
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\refint\Firstoprogram.dll
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.pdb
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\Firstoprogram.genruntimeconfig.cache
+D:\C# Programs\Firstoprogram\obj\Debug\net6.0\ref\Firstoprogram.dll
